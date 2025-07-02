@@ -1,6 +1,19 @@
-# 💫 About Me:
-👨‍💻 I’m currently learning ML<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on mern stack developers<br><br>🤝 I’m looking for help with mern stack<br><br>💬 Ask me about Next, React, node<br><br>📩 How to reach me besufikadle95@gmail.com
+## 👋 About Me<br>
 
+👨‍💻 I’m currently learning <strong>Machine Learning</strong><br>
+🧑‍🤝‍🧑 I’m looking to collaborate with <strong>MERN stack developers</strong><br>
+🤝 I’m looking for help with <strong>MERN stack</strong><br>
+💬 Ask me about <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>Flutter</strong><br>
+📩 How to reach me: <strong>besufikadle95@gmail.com</strong><br>
+
+---
+
+## 🧠 Fun Facts<br>
+
+- 🧃 My code runs better after I’ve had some mango juice.<br>
+- ⌛ I sometimes debug by just <em>staring at the screen until it fixes itself</em> (surprisingly effective).<br>
+- 🎯 I believe <code>console.log()</code> is the real MVP of every project.<br>
+- 🤓 I enjoy learning random tech trivia and making boring apps look beautiful.<br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bel95_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BesufikadLemma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:besufikadle95@gmial.com) 
