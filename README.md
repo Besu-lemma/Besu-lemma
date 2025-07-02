@@ -10,7 +10,7 @@
 
 ## 🧠 Fun Facts<br>
 
-- 🧃 My code runs better after I’ve had some mango juice.<br>
+- 🧃 My code runs better after I’ve had some Predator energy drink.<br>
 - ⌛ I sometimes debug by just <em>staring at the screen until it fixes itself</em> (surprisingly effective).<br>
 - 🎯 I believe <code>console.log()</code> is the real MVP of every project.<br>
 - 🤓 I enjoy learning random tech trivia and making boring apps look beautiful.<br>
