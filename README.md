@@ -1,6 +1,6 @@
 ## 👋 About Me<br>
 
-👨‍💻 I’m currently learning <strong>ERP systems</strong><br>
+👨‍💻 I’m currently mastering <strong>Odoo ERP system</strong><br>
 🧑‍🤝‍🧑 I’m looking to collaborate with <strong>MERN stack developers</strong> and <strong>OdooERPs</strong> <br>
 🤝 I’m looking for help with <strong>MERN stack</strong>and<strong>OdooERP</strong> <br>
 💬 Ask me about <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>Flutter</strong>, <strong>OdooERP</strong><br>
